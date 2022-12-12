@@ -1,0 +1,10 @@
+LT0;Acer Aspire 5;1.9E7;Acer;Window;16;3060;I7;22;1
+LT1;Lenovo thinkpad 5;1.9E7;Lenovo;Window;16;3070;i7;214;1
+LT2;DELL 4;1.0E7;DELL;Window;12;1080;i3;12;1
+LT3;lenovo thinkpad 5;1.2E7;Lenovo;Window;16;3070;i3;5;1
+LT4;Acer Aspire 7;1.9E7;ACER;Window;16;3070;i5;7;1
+LT5;Macbook air m1;2.2E7;apple;IOS;8;2560;i5;10;1
+LT6;Acer TravelMate B3;5000000.0;ACER;Window;8;3070;i3;8;1
+LT7;Acer Swift 3;2.3E7;ACER;Window;16;3070;i5;20;1
+LT8;Acer Aspire 3;1.2E7;ACER;Window;8;3070;i3;21;1
+LT9;Acer Aspire A514;1.5E7;ACER;Window;16;3070;i5;14;1

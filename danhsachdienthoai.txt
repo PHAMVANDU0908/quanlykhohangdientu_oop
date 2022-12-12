@@ -1,0 +1,12 @@
+DT0;iphone 6;3000000.0;apple;IOs;Trang;16;62;1
+DT1;iphone 7;5000000.0;apple;IOS;Den;32;198;0
+DT2;Iphone X;1.2E7;apple;IOS;Den;16;84;1
+DT3;Iphone 14;2.4E7;apple;IOS;Trang;16;19;1
+DT4;OPPO F9;1.0E7;OPPO;Android;Den;64;30;1
+DT5;Samsung Galaxy Z Flip4;2.0E7;Samsung;Android;Xanh;64;40;1
+DT6;Iphone 11;1.3E7;apple;IOS;Hong;64;22;1
+DT7;Redmi note 11;4000000.0;xiaomi;Android;den;64;15;1
+DT8;OPPO Reno8;1.8E7;OPPO;Android;xanh;128;5;1
+DT9;OPPO A55;3.5E7;OPPO;Android;vang;32;2;1
+DT10;iphone 6s plus;3000000.0;iphone;IOS;Iphone;16;42;1
+DT11;Iphone 7;7000000.0;Iphone;Io;den;100;30;0

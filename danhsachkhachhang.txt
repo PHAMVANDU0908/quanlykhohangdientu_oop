@@ -1,0 +1,21 @@
+KH0;Ngo Lam Bao Nghi;02/02/2003;52B Lam Van Ben, P.Tan Kieng, Quan 7, TPHCM;0379614995;1
+KH1;Nguyen Thanh Nha;09/04/2003;Binh Dinh;0379614995;0
+KH2;Le Van Luyen;01/01/2000;So 8 Duong so 12, Cu Sa Chu Van An,Phuong 26, Quan Binh Thanh, TP. Hồ Chi ? Minh (TPHCM);0372624925;0
+KH3;Truong Cam Thuy;09/02/1993;So 19, Ngo 178 Thai Ha - Dong Da - Ha Noi;0371612921;1
+KH4;Nguyen Le Bao Chau;09/02/1998; 426 Nguyen Truc, Bich Hoa, Thanh Oai, Ha Noi;0372611991;0
+KH5;Tran Duyen Phan;09/01/1990;174 Duong 17, Khu Pho 5, Phuong Linh Trung, Q.Thu Duc, Tp. Hồ Chí Minh (TPHCM);0370612915;1
+KH6;Cao Van Thap;1/04/1996;321/10 Phan Dinh Phung, Phuong 15, Q.Phu Nhuan,TPHCM;0379674695;0
+KH7;Tran Van Nghia;01/12/2003;430 Ton Dan, P.Hoa Phat, Q.Cam Le, Tp Da Nang;0379604925;1
+KH8;Ly Cong Uan;12/04/2007;278 Nguyen Van Cong, P.3, Q.Go Vap,TPHCM;0370614291;1
+KH9;Truong Dinh Nhue;09/10/2006; So 10, Ngo 31, Pho Doan Ke Thien, Phuong Mai Dich,Q.Cau Day,Ha Noi;0379212925;0
+KH10;La Chi Tai;12/04/2001;VHC Tower, 399 Pham Van Dong, P. Xuan Dinh, Q.Bac Tu Liem,Ha Noi (TPHN);0379214290;0
+KH11;Phan Van Thang;19/1/2003;76/28/5 Le Van Phan, P.Phu Tho Hoa, Q.Tan Phu,TPHCM;0371614125;1
+KH12;Nguyen Thi Lan Anh;19/4/2003;12A Duong So 4, P.Phu My, Q.7,TPHCM;0379114295;0
+KH13;Bui Vo Hoang;19/11/2002; CN Ha Noi: 12 Lo 2C Khu  ?TM Trung Yen, Q.Cau Giay,Ha Noi;0372611992;1
+KH14;Le Thi Thu Trang;09/04/2003; 622/16/5 Cong Hoa, P.13, Q.Tan Binh,TPHCM;0375614905;1
+KH15;Vo Thi Thu Hoai;02/01/2001;41B20 Duong 30/4, P.9, Thanh Pho Vung Tau,Ba Ria-Vung Tau;0372612925;0
+KH16;Nguyen Duy Khanh;02/04/2001; 152A Duong Man Thien, KP5, P.Tang Nhon Phu A, Q.9, TPHCM;0372611095;1
+KH17;Nguyen Thi Tran;09/01/1998;117 Duong so 26, Phuong Binh Tri Dong B, Q.Tan Binh,TP HCM;0379214493;0
+KH18;Le Thi Thu Ha;09/04/1992;86/21 Phan Tay Ho, P.7, Q.Phu Nhuan,PHCM;0372614291;0
+KH19;Truong Thi Cam Thuy;09/01/1993;87 Ni Su Huynh Lien, Q.Tan Binh,TPHCM;0378616925;0
+KH20;Pham Van Du ;09/04/2003;Binh DInh;0379614995;1
